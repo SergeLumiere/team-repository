@@ -1,6 +1,10 @@
 @import './common';
 @import './example';
 
+@import './vars';
+@import './container';
+@import './reset';
+
 @import './header';
 @import './hero';
 @import './benefic';
@@ -10,9 +14,5 @@
 @import './team';
 @import './callback';
 @import './footer';
-
-@import './vars';
-@import './container';
-@import './reset';
 
 @import './modal';
