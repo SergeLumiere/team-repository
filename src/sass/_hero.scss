@@ -1,3 +1,16 @@
 .hero {
-    background-color: bisque;
+  background-color: bisque;
+}
+.swiper {
+  width: 600px;
+  height: 300px;
+
+  background-color: tomato;
+}
+.swiper-pagination-bullet-active {
+  background-color: teal;
+}
+.swiper-pagination-bullet {
+  width: 15px;
+  height: 15px;
 }
